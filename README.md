@@ -32,7 +32,6 @@ graph TD
     AP -.->|Wi-Fi| L1[Guest Laptop]
 ```
 
-Add your own Packet Tracer screenshot to `screenshots/` and your `.pkt` file to `topology/`.
 
 ## Design at a Glance
 
