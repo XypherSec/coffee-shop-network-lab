@@ -1,4 +1,3 @@
-# coffee-shop-network-lab
 # Coffee Shop Network — Cisco Packet Tracer Lab
 
 A secure small-business network built from scratch in Cisco Packet Tracer for a fictional coffee shop owner. The design segments an office, a point-of-sale (POS) system and public guest Wi-Fi into separate VLANs, routes between them with router-on-a-stick, hands out addresses with DHCP, and uses an ACL to keep guests away from internal business resources.
